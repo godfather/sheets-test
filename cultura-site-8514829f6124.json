@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "cultura-site",
+  "private_key_id": "8514829f6124202fba2789c5459e991a3dcbdf85",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDXMgS4y/4kO0yD\nbxcy610TVCBmyuvvyy1EaCIrL9p8XtWQMUwOb8Bka9v/xKqVNbgvB3OQZdRmcHRf\nHyjfU9WjmlYzq2RhxuSWF4beLATvHvVKxSwjSl8WRtzN5YmkyTHklPokrgsjgfaV\nVh+zvyNwV3nLB4R0k5HeusZLlgvYcMb+vWqd1QGlQpGBEoPLC58EOWdvOZkSM5Rl\nWowzl1w40Tz8nABJ3dvOO55+shGjQzOdMgh7IJfrrrkjrCTyWRISqGUk6gXvGB5b\nv0z5bz2SMlMt5SjGewvNbzHzO/xHyfWNi9+5Gvb9fvjVOD8YREODLK6nZ12wnJg8\njpAd50m/AgMBAAECggEANObP8Fn9pQyK17jEnDjuDaVdvcdezvlErI9o7vL5pB9w\nIt1rlBT21/kIAU1onfuxxqXvS+0slO5KPWQcmSIz398+F7+nkr3hTeCEwDNUFzCm\nHnZwTlCnJYPQHjGyb7ciM85H3CKJDHaTlsywSHDRlnl6sGWtszbf4kBKJSTCzrce\n8EPAYGg4/+50JbyNqiCjuUikfQKiVq11DPFMB2is8bh17M/sz3ot5GxFb4w1Os4C\ntwjelf44xM8eNL8dr6RgubN3EPn/7VNi9TMd5k1LZQQOSO0FuBgu6vv8H4ybWbyC\nwbeBTjKmdWSCqLrO7zZZiIWGkypkplwDrP6vPuCIOQKBgQD/zpLPlG/3/m9jSBEu\nwExcDOvcb5TtX/ITXA3GUixOFNO9lBDeBZscw0RY9GTYplUbia+tI7y/cgLfX2KG\nar/Dj+5Kq7Dv+mk3OBZMcPJ9Rio+Hq0VXmeD1xYUTCQx3ACoQTUbPpuxfLi7T5no\nKlmFNS5dajykw3KuhMtwpVc9RQKBgQDXW5kb1iwlWFaSX3KCNKzlN7bVCNdqxAou\nIhEHJPx09PtbsyHm5WYkjY+wQj9Kc15Y04cZFU67XV+YbiDOthdex9AI9LurXLFQ\nSdeSyrJmWyK1b2UY3uraZU7RSz0NxbVukVgR8iHEBEM+iPrOtMHImnAqfRuZJpxN\nhXMRBKqRMwKBgECRRaE7mF+CS19F64BfbWa2pDoJuA+KbjHQxHFQgHpc620omHFR\n/OrvpqrFVUcSBN1kjYEoShYQkwUKsHW5MBoOlFkoqQqJrFERyR8WSz6vnS381DdW\nks5GVf5dka08GLZfbyYnUWklUAOHfhOJzPrAh6lwjUoRQzslrawLL8/5AoGBAKUx\nZwW6SIyw8V9ABdcozsLY9M7/BDaqf+CZUxR244xXawQRKV0y9CHv0Jt0hZX3XxSl\n1UiBVq5UVoLXXyUQ+mZCwSpNiDNPW9fpfInmH+hx2fLwqszkGaRC962FmCSbVquk\no7jIUexJFMfATRsH/mmBRa7h3qyguF6ikfwo5ymPAoGAcqXX4lDHcc3szLkN7TcU\n3DjKHIJijoFxs69vQWTyvzjRi2A7XSzCQZjF8ULBJ6zzK0Lp15AOZo3HDyBS3GKi\njp9Hvnfg2RuJYcUNpBx8PDaZI6WjyxSHsm9X3qNCo0j2qEWWrY70hsB+aAf9EjGi\n07aGx+5XM4dS8hurXVKdGSw=\n-----END PRIVATE KEY-----\n",
+  "client_email": "cultura-api@cultura-site.iam.gserviceaccount.com",
+  "client_id": "110316079999101108823",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/cultura-api%40cultura-site.iam.gserviceaccount.com"
+}
